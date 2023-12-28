@@ -8,4 +8,4 @@ Pet adoption mobile application for iPhones that lets users
 5. Adding an adoption event to the calender feature that allows users to set reminders for specific events they are looking forward to!
 
 
-//coded in Xcode
+//coded in Xcode using SwiftUI
