@@ -21,7 +21,7 @@ Mark your calendar with paw prints! Use our adoption event calendar to set remin
 
 ## How to Paw-sitively Transform Your Adoption Journey 🐾
 
-1. **Download The Pawfect App:** Head to the App Store and install The Pawfect Application on your iPhone.
+1. **Download The Pawfect App:** Not available on Appstore yet
 2. **Explore Adoption Shelters:** Open the app, use Apple Maps to find nearby adoption shelters, and begin your pet search adventure.
 3. **Swipe, Discover, Love:** Dive into pet profiles, swipe through adorable photos, and get to know your potential furry family member.
 4. **Paw-ssential Tips:** Access grooming, training, and nutrition tips to ensure you're ready for the exciting journey of being a pet parent.
@@ -30,7 +30,7 @@ Mark your calendar with paw prints! Use our adoption event calendar to set remin
 
 Embark on a journey of unconditional love and companionship with The Pawfect Application. Your pawfect companion is just a swipe away! 🌈🐾
 
-*Note: The Pawfect Application is committed to promoting responsible pet adoption and enhancing the well-being of both pets and pet parents.*
+
 
 
 
