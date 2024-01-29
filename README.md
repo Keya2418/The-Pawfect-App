@@ -1,5 +1,5 @@
 
-                               The Pawfect Application 🐾
+                         **      The Pawfect Application 🐾 **
 
 Welcome to The Pawfect Application, the ultimate pet adoption experience for iPhone users! Unleash the joy of finding your furry companion while enjoying a seamless and delightful mobile journey.
 
